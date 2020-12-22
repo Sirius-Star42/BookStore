@@ -1,6 +1,6 @@
 # BookStore
 
-EPIC :  - Landing Page
+**EPIC** :  - Landing Page
         - User auth (login system)
             STORY:  - Register Page
                     - Login Page
@@ -13,7 +13,7 @@ EPIC :  - Landing Page
         -Checkout System
             STORY:
 
-TECH MERN STACK:    - Backend node.js server (Restful API)
+**TECH MERN STACK**:    - Backend node.js server (Restful API)
                     - Database MONGODB
                     - View (Client) React
                     - Payment : Stripe

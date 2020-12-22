@@ -1,0 +1,24 @@
+{
+  "name": "BookStore",
+  "version": "1.0.0",
+  "description": "**EPIC** :  - Landing Page\r         - User auth (login system)\r             STORY:  - Register Page\r                     - Login Page\r         - Dashboard/Profile Page  \r             STORY:  -Dashboard Page\r         -Book List\r             STORY:  \r         -Book Details\r             STORY:\r         -Checkout System\r             STORY:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirius-Star42/BookStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirius-Star42/BookStore/issues"
+  },
+  "homepage": "https://github.com/Sirius-Star42/BookStore#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
