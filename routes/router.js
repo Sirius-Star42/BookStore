@@ -1,21 +1,14 @@
 const express = require("express");
-
 const router = express.Router();
+const AuthRouter = require("./AuthRouter");
 
 
 
 
 
 
-router.get("/", (req, res) => {
-    console.log("API Page")
-    res.send("API Page")
-});
 
-
-
-
-
+router.use("/auth", AuthRouter);
 
 
 
